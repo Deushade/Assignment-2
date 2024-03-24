@@ -1,2 +1,2 @@
 Note: The assignment says that sounds need to be used in the program, so I used the pygame library for Python. It won't work with an online compiler, because the library is needed for sound. To install: "pip install pygame" in cmd to install the library. 
-An audio file is also included/required for the swap sounds in the program. You can change the elements in the array to yourt liking for the program also.
+An audio file is also included/required for the swap sounds in the program. Also, you can change the elements in the array to your liking for the program.
